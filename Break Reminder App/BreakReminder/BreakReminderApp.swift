@@ -1,9 +1,4 @@
-//
-//  BreakReminderApp.swift
-//  BreakReminder
-//
-//  Created by Emma Ziegler on 08.03.26.
-//
+
 
 import SwiftUI
 
